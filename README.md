@@ -14,12 +14,11 @@
     - [深入理解Android内核设计思想](#深入理解android内核设计思想)
   - [Python](#python)
     - [与孩子一起学编程](#与孩子一起学编程)
-    - [Python基础教程 第2版](#python基础教程-第2版)
+    - [Python基础教程 第3版](#python基础教程-第3版)
     - [Python编程从入门到实践](#python编程从入门到实践)
     - [流畅的Python](#流畅的python)
     - [利用Python进行数据分析](#利用python进行数据分析)
   - [C++](#c)
-    - [C和指针](#c和指针)
     - [C++程序设计原理与实践](#c程序设计原理与实践)
   - [网络](#网络)
     - [图解HTTP](#图解http)
@@ -47,9 +46,7 @@
     - [卓有成效的管理者](#卓有成效的管理者)
 
 
-作为程序员，始终要保持学习，一直带着纸质书还是很不便的，电子书的需求量还是挺大的。为了方便广大的小伙伴也能方便找到对应的电子书，我花费洪荒之力从各个搜索网站收集了几百本常用的电子书。
-
-这些资源，我花了很久才找到了，找到了，我要看看，是不是全的，是不是有一些第三方水印（强迫症），查找豆瓣评分等，只读精品书籍。
+作为程序员，始终要保持学习，一直带着纸质书还是很不便的，因此电子书对于我们还是挺需要的。为了方便广大的小伙伴也能方便找到对应的电子书，我花费洪荒之力从各个搜索网站收集了几百本常用的电子书，找到了，我要看看，是不是全的，是不是有一些第三方水印（强迫症），查找豆瓣评分等，只读精品书籍。
 
 推荐有 Java、Android、Python 等，书籍由浅入深，并附有 pdf 资源下载。
 
@@ -57,7 +54,7 @@
 ## Java
 
 ### Head First Java 第2版
-![](Image/s2171906.jpg)
+![](https://img3.doubanio.com/lpic/s2171906.jpg)
 
 豆瓣评分：8.8
 
@@ -135,9 +132,11 @@
 
 下载链接：https://share.weiyun.com/ld9qGgNZ 密码：yjr4rw
 
-### Python基础教程 第2版
-![](https://img3.doubanio.com/view/subject/s/public/s4387251.jpg)
+### Python基础教程 第3版
+![](https://img9.doubanio.com/view/subject/s/public/s29667615.jpg)
 豆瓣评分：8.0
+
+下载链接：https://share.weiyun.com/7It9ysVs 密码：p8x3w9
 
 ### Python编程从入门到实践
 ![](https://img3.doubanio.com/lpic/s28891775.jpg)
@@ -166,13 +165,10 @@
 下载链接：https://share.weiyun.com/Wie43Enl 密码：w8a8xp
 
 ## C++
-### C和指针
-![](https://img1.doubanio.com/view/subject/s/public/s4386189.jpg)
-豆瓣评分：8.9
-
 ### C++程序设计原理与实践
-![](https://img1.doubanio.com/view/subject/s/public/s2996168.jpg)
+![](https://img1.doubanio.com/view/subject/s/public/s4386189.jpg)
 豆瓣评分：9.0
+
 ## 网络
 ### 图解HTTP
 ![](https://img3.doubanio.com/lpic/s27283822.jpg)
@@ -229,6 +225,7 @@
 
 豆瓣评分：8.4
 
+下载链接：https://share.weiyun.com/RsF36FI8 密码：947iea
 
 
 ## 面试 
