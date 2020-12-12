@@ -10,7 +10,7 @@
 ## Java
 
 ### Head First Java 第2版
-![](https://img3.doubanio.com/lpic/s2171906.jpg)
+![](Image/s2171906.jpg)
 
 豆瓣评分：8.8
 
