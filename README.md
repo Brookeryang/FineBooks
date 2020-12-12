@@ -1,6 +1,4 @@
 # FineBooks
-
-
 - [FineBooks](#finebooks)
   - [Java](#java)
     - [Head First Java 第2版](#head-first-java-第2版)
@@ -18,8 +16,10 @@
     - [Python编程从入门到实践](#python编程从入门到实践)
     - [流畅的Python](#流畅的python)
     - [利用Python进行数据分析](#利用python进行数据分析)
-  - [C++](#c)
-    - [C++程序设计原理与实践](#c程序设计原理与实践)
+  - [C](#c)
+    - [C Primer Plus 第6版](#c-primer-plus-第6版)
+  - [C++](#c-1)
+    - [C++ Primer 第6版](#c-primer-第6版)
   - [网络](#网络)
     - [图解HTTP](#图解http)
     - [图解TCP/IP](#图解tcpip)
@@ -44,6 +44,7 @@
   - [猿职场](#猿职场)
     - [程序员的职业素养](#程序员的职业素养)
     - [卓有成效的管理者](#卓有成效的管理者)
+
 
 
 作为程序员，始终要保持学习，一直带着纸质书还是很不便的，因此电子书对于我们还是挺需要的。为了方便广大的小伙伴也能方便找到对应的电子书，我花费洪荒之力从各个搜索网站收集了几百本常用的电子书，找到了，我要看看，是不是全的，是不是有一些第三方水印（强迫症），查找豆瓣评分等，只读精品书籍。
@@ -164,10 +165,17 @@
 
 下载链接：https://share.weiyun.com/Wie43Enl 密码：w8a8xp
 
+## C
+### C Primer Plus 第6版
+![](https://img1.doubanio.com/view/subject/s/public/s29438897.jpg)
+
+豆瓣评分：9.4
+
+下载链接：https://share.weiyun.com/DgIbIj54 密码：btq2iq
 ## C++
-### C++程序设计原理与实践
-![](https://img1.doubanio.com/view/subject/s/public/s4386189.jpg)
-豆瓣评分：9.0
+### C++ Primer 第6版
+![](https://img2.doubanio.com/view/subject/s/public/s33680043.jpg)
+豆瓣评分：9.4
 
 ## 网络
 ### 图解HTTP
@@ -241,6 +249,8 @@
 ### 程序员面试金典 第5版
 ![](https://img2.doubanio.com/view/subject/s/public/s27105842.jpg)
 豆瓣评分：8.9
+
+下载链接：https://share.weiyun.com/ck4ZfaG4 密码：xp6tka
 
 ## 思维
 ### 程序员的思维修炼 
