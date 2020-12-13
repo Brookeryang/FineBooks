@@ -48,6 +48,8 @@
   - [理财](#理财)
     - [小狗钱钱](#小狗钱钱)
   - [猿职场](#猿职场)
+    - [软技能代码之外的生存指南](#软技能代码之外的生存指南)
+    - [软技能2软件开发者职业生涯指南](#软技能2软件开发者职业生涯指南)
     - [程序员的职业素养](#程序员的职业素养)
     - [卓有成效的管理者](#卓有成效的管理者)
   - [GitHub](#github)
@@ -281,6 +283,18 @@
 
 ## 猿职场
 
+### 软技能代码之外的生存指南
+![](https://img9.doubanio.com/view/subject/s/public/s28889106.jpg0)
+
+豆瓣评分：8.7
+
+下载链接：https://share.weiyun.com/EuqsCC4u 密码：eyz4cc
+
+### 软技能2软件开发者职业生涯指南
+![](https://img3.doubanio.com/view/subject/s/public/s33644540.jpg)
+豆瓣评分：8.7
+
+下载链接：Todo。
 ### 程序员的职业素养
 ![](https://img2.doubanio.com/view/subject/s/public/s11194203.jpg)
 
