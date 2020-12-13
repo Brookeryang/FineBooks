@@ -2,7 +2,7 @@
 
 推荐有 Java、Android、Python 等，书籍由浅入深，并附有 pdf 资源下载。
 
-**甩锅申明**：这些资源均来源于网络，仅供交流学习之用，请勿用作商业用途，若喜欢，请购买正版书籍，如有侵权，请联系我，我立马删除对应链接，我的微信号：SmartLoong1024，如果下载链接失效，也请联系我。
+**甩锅申明**：这些资源均来源于网络，仅供交流学习之用，请勿用作商业用途，若喜欢，请购买正版书籍，如有侵权，请联系我，我立马删除对应链接，我的微信号：SmartLoong1024，如果下载链接失效，可以联系我。
 
 # FineBooks
 - [FineBooks](#finebooks)
@@ -50,6 +50,7 @@
   - [猿职场](#猿职场)
     - [程序员的职业素养](#程序员的职业素养)
     - [卓有成效的管理者](#卓有成效的管理者)
+  - [GitHub](#github)
 
 
 
@@ -126,6 +127,7 @@
 下载链接：https://share.weiyun.com/o7IxzTK5 密码：b5m9yx
 
 
+
 ## Python
 
 ### 与孩子一起学编程
@@ -179,6 +181,8 @@
 ![](https://img2.doubanio.com/view/subject/s/public/s33680043.jpg)
 豆瓣评分：9.4
 
+下载链接：https://share.weiyun.com/Xyq9e9ba 密码：9gmx3z
+
 ## 网络
 ### 图解HTTP
 ![](https://img3.doubanio.com/lpic/s27283822.jpg)
@@ -191,6 +195,8 @@
 ![](https://img1.doubanio.com/view/subject/s/public/s26676928.jpg)
 
 豆瓣评分：7.9
+
+下载链接：Todo。
 ## 设计模式
 ### 图解设计模式
 ![](https://img3.doubanio.com/lpic/s29317811.jpg)
@@ -211,6 +217,8 @@
 ![](https://img3.doubanio.com/view/subject/s/public/s4687321.jpg)
 
 豆瓣评分：9.1
+
+下载链接：Todo。
 
 ## 版本控制
 ### Git权威指南
@@ -260,7 +268,7 @@
 
 豆瓣评分：8.4
 
-
+下载链接：https://share.weiyun.com/BpwYjWDg 密码：cy2ynw
 
 ## 理财
 
@@ -278,7 +286,13 @@
 
 豆瓣评分：8.7
 
+下载链接：Todo。
+
 ### 卓有成效的管理者
 ![](https://img2.doubanio.com/view/subject/s/public/s1441092.jpg)
 
 豆瓣评分：8.7
+
+下载链接：Todo。
+## GitHub
+收藏似乎有瘾，如果看到好书，继续分享，欢迎 Star，GitHub 地址：https://github.com/WuXiaolong/FineBooks
