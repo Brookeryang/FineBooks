@@ -284,7 +284,7 @@
 ## 猿职场
 
 ### 软技能代码之外的生存指南
-![](https://img9.doubanio.com/view/subject/s/public/s28889106.jpg0)
+![](https://img9.doubanio.com/view/subject/s/public/s28889106.jpg)
 
 豆瓣评分：8.7
 
